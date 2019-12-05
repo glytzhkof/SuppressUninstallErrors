@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "SuppressUninstallErrors", "SuppressUninstallErrors\SuppressUninstallErrors.wixproj", "{84C8E4A3-3183-4187-8C01-89ABD3B9AD38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C8E4A3-3183-4187-8C01-89ABD3B9AD38}.Debug|x86.ActiveCfg = Debug|x86
+		{84C8E4A3-3183-4187-8C01-89ABD3B9AD38}.Debug|x86.Build.0 = Debug|x86
+		{84C8E4A3-3183-4187-8C01-89ABD3B9AD38}.Release|x86.ActiveCfg = Release|x86
+		{84C8E4A3-3183-4187-8C01-89ABD3B9AD38}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D07D4D3-F60F-4277-838D-1F4AD1C39AB4}
+	EndGlobalSection
+EndGlobal
